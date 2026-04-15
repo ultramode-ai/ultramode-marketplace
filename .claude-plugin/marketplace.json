@@ -7,7 +7,7 @@
   },
   "metadata": {
     "description": "UltraMode official marketplace \u2014 106 MCPs (router-proxied) + Remote Workspace (VS Code-grade SSH for AI) + 42 skills (ads, PDF, funnels, CRO) + 30 slash commands.",
-    "version": "0.3.5"
+    "version": "0.3.6"
   },
   "plugins": [
     {
@@ -15,10 +15,10 @@
       "source": {
         "source": "npm",
         "package": "@ultramode/install",
-        "version": "^0.3.5"
+        "version": "^0.3.6"
       },
       "description": "One install. Every AI power. 106 MCPs + SSH daemon + vault + OAuth + 42 skills.",
-      "version": "0.3.5",
+      "version": "0.3.6",
       "homepage": "https://mcp.business",
       "repository": "https://github.com/ultramode-ai/ultramode-marketplace",
       "license": "MIT",
