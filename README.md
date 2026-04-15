@@ -5,14 +5,14 @@ Official marketplace for the UltraMode Claude Code plugin.
 ## Install
 
 ```
-/plugin marketplace add cloudwishcom/ultramode-marketplace
+/plugin marketplace add ultramode-ai/ultramode-marketplace
 /plugin install ultramode@ultramode
 ```
 
 Or in VSCode "Manage Plugins" → Marketplaces tab, paste:
 
 ```
-cloudwishcom/ultramode-marketplace
+ultramode-ai/ultramode-marketplace
 ```
 
 ## What's in the plugin
